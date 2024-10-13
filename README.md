@@ -26,3 +26,5 @@ Este projeto é uma aplicação web simples que permite calcular a Capacidade To
 3.    Insira os valores de Ferro (Fe) e UIBC nos campos apropriados.
 4.Clique no botão "Calcular TIBC" para ver o resultado.
 
+# Visualização
+![Project-tibc](https://raw.githubusercontent.com/LandGabriel/TIBC-form/refs/heads/main/PROJECT-TIBC/estilo/projeto-tibc.png)
